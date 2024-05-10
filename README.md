@@ -56,14 +56,17 @@ end
 endmodule
 
 **RTL LOGIC UP COUNTER**
+
 ![rtl](https://github.com/Naveenkumarvedarajan/SYNCHRONOUS-UP-COUNTER/assets/147140428/88310a9f-edd1-42b1-b03b-7562bb9f3b04)
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
 ![td](https://github.com/Naveenkumarvedarajan/SYNCHRONOUS-UP-COUNTER/assets/147140428/4309f738-6a8a-41fa-ad31-e9294724dcdd)
 
 
 **TRUTH TABLE**
+
 ![t](https://github.com/Naveenkumarvedarajan/SYNCHRONOUS-UP-COUNTER/assets/147140428/1077f98d-99b0-4990-a2c8-207c5d808c92)
 
 
